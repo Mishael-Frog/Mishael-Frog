@@ -1,4 +1,4 @@
-Я хомячок java програмист.
+Я лягушонок java програмист.
 
 <!---
 Mishael-Frog/Mishael-Frog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
